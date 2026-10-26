@@ -1,0 +1,20 @@
+# Dependencies
+
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment files (secrets & keys)
+
+.env
+.env.local
+
+# Production builds (auto-generated)
+
+dist/
+dist-ssr/
+
+# Logs (temporary error files)
+
+*.log
+npm-debug.log*
